@@ -45,7 +45,7 @@ Alongside this, I, occasionally, work with the following to create my personal p
 - React-Native — personal project, not shared on GitHub
 - Unity Engine — two personal projects, not shared on GitHub
 
-... for creating cross-platform, non-native mobile (iOS, Android), desktop (Windows, Linux, MacOS) and gameing apps.
+... for creating cross-platform, non-native mobile (iOS, Android), desktop (Windows, Linux, MacOS) and gaming apps.
 
 <br>
 
@@ -61,7 +61,7 @@ Alongside this, I, occasionally, work with the following to create my personal p
 
 #### 05. Blockchain Consultant & Generative AI Adviser
 
-_• &nbsp; Working @ Present &nbsp; • &nbsp; Permanent &nbsp; • &nbsp; Part-time &nbsp; • &nbsp; Remote_
+• &nbsp; Working @ Present &nbsp; • &nbsp; Permanent &nbsp; • &nbsp; Part-time &nbsp; • &nbsp; Remote
 
 👉 _I advised my employer on integrating permissionless public blockchains and cloud-based permissioned BaaS with their client-facing software product modules. I was the key person on the team, explaining to the execuives and the directors how blockchains would enable zero-knowledge ID management for employees, more private IAM, impact supply chains, affect audits trails, bring about internal and external data transparency — and more._
 
