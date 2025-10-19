@@ -1,4 +1,4 @@
-## About Me
+## 👋 About Me
 
 **`Web Developer & Blockchain Software Engineer`**
 
@@ -18,7 +18,7 @@ I am a full-stack web developer and a full-stack blockchain software engineer �
 
 <br>
 
-## Skills & Contributions
+##  👨‍💻 Skills & Contributions
 
 **`Web, Blockchains, Cloud & Distributed System Design`**
 
@@ -53,15 +53,15 @@ Alongside this, I, occasionally, work with the following to create my personal p
 
 <br>
 
-## Professional Work Experience
+## 🏆 Work Experience & Achievements
 
-**`Software Engineer | 3.5 Years of Experience`**
+**`Full-stack Software Engineer | 3.5 Years`**
 
 ###### _\* Company names and locations have been redacted from GitHub but are available in my CV._
 
 #### 05. Blockchain Consultant & Generative AI Adviser
 
-• &nbsp; Working @ Present &nbsp; • &nbsp; Permanent &nbsp; • &nbsp; Part-time &nbsp; • &nbsp; Remote
+_• &nbsp; Working @ Present &nbsp; • &nbsp; Permanent &nbsp; • &nbsp; Part-time &nbsp; • &nbsp; Remote_
 
 👉 _I advised my employer on integrating permissionless public blockchains and cloud-based permissioned BaaS with their client-facing software product modules. I was the key person on the team, explaining to the execuives and the directors how blockchains would enable zero-knowledge ID management for employees, more private IAM, impact supply chains, affect audits trails, bring about internal and external data transparency — and more._
 
@@ -219,6 +219,6 @@ Alongside this, I, occasionally, work with the following to create my personal p
 
 <br>
 
-## Contact Me
+## ☎️ Contact Me
 
 I look forward to working on all and exciting software projects in great cultures with wonderful peers. If you have any mutually beneficial collaborative opportunities you want to discuss, definitely reach out to me at [this email address](mailto:work.email861@passinbox.com).
