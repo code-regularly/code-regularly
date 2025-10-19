@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 **`Web Developer & Blockchain Software Engineer`**
 
@@ -18,7 +18,7 @@ I am a full-stack web developer and a full-stack blockchain software engineer �
 
 <br>
 
-# Skills & Contributions
+## Skills & Contributions
 
 **`Web, Blockchains, Cloud & Distributed System Design`**
 
@@ -53,11 +53,13 @@ Alongside this, I, occasionally, work with the following to create my personal p
 
 <br>
 
-# Professional Work Experience
+## Professional Work Experience
 
 **`Software Engineer | 3.5 Years of Experience`**
 
-### 05. Blockchain Consultant & Generative AI Adviser
+###### _\* Company names and locations have been redacted from GitHub but are available in my CV._
+
+#### 05. Blockchain Consultant & Generative AI Adviser
 
 • &nbsp; Working @ Present &nbsp; • &nbsp; Permanent &nbsp; • &nbsp; Part-time &nbsp; • &nbsp; Remote
 
@@ -65,7 +67,28 @@ Alongside this, I, occasionally, work with the following to create my personal p
 
 👉 _I provided consultancy to the company on integrating generative AI with their client-facing software product. My submitted works included advice on LLM selection based on product requirements, agentic army development with Mode-Context-Provider (MCP) architecture, model optimisations via RAG and LRA techniques, outlining hardhware requirements — and much more. This was perhaps the most exciting things I worked on during my stay here._
 
-### 04. Full-stack Blockchain Software Engineer
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      &nbsp; &nbsp; Blockchains &nbsp; &nbsp;      
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; Generative AI &nbsp; &nbsp;
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; Consultancy &nbsp; &nbsp;
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; Data Visualisation &nbsp; &nbsp;
+    </td>
+  </tr>
+</table>
+
+<br> <br>
+
+#### 04. Full-stack Blockchain Software Engineer
 
 • &nbsp; Permanent &nbsp; • &nbsp; Full-time &nbsp; • &nbsp; On-site & Remote (Hybrid)
 
@@ -73,7 +96,34 @@ Alongside this, I, occasionally, work with the following to create my personal p
 
 👉 _**Tools & Technologies:** Extensively worked with Supabase, TypeScript, Wagmi, Rainbow kit, Ethers.js, Alchemy, Chainlink, Solidity, ERC-20, ERC-721, ERC-721A, ERC-1155, Hardhat, MERN, React.js, Next.js, API security, ACID DB, Prisma ORM, PostgreSQL and social media integrations (Discord, YouTube, e-mail services, Telegram)._
 
-### 03. Full-stack Blockchain Software Engineer
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      &nbsp; &nbsp; Ethereum &nbsp; &nbsp;      
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; Polygon &nbsp; &nbsp;
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; Immutable X &nbsp; &nbsp;
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; Solidity &nbsp; &nbsp;
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; Smart Contracts &nbsp; &nbsp;
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; NFTs &nbsp; &nbsp;
+    </td>
+  </tr>
+</table>
+
+<br> <br>
+
+#### 03. Full-stack Blockchain Software Engineer
 
 • &nbsp; Permanent &nbsp; • &nbsp; Full-time &nbsp; • &nbsp; On-site & Remote (Hybrid)
 
@@ -81,7 +131,29 @@ Alongside this, I, occasionally, work with the following to create my personal p
 
 👉 _**Tools & Technologies:** I extensively worked with TypeScript, Material UI, serverless Next.js, Nest.js, MVC, MongoDB, Mongoose, Ethers.js MetaMask, cryptographic security, AWS cloud, Vercel, Chai.js and Artillery._
 
-### 02. Full-stack Web Developer
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      &nbsp; &nbsp; Hive &nbsp; &nbsp;      
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; MERN &nbsp; &nbsp;
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; AWS &nbsp; &nbsp;
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; Vercel &nbsp; &nbsp;
+    </td>
+  </tr>
+</table>
+
+<br> <br>
+
+#### 02. Full-stack Web Developer
 
 • &nbsp; Contract &nbsp; • &nbsp; Full-time &nbsp; • &nbsp; On-site
 
@@ -89,7 +161,32 @@ Alongside this, I, occasionally, work with the following to create my personal p
 
 👉 _**Tools & Technologies:** I used HTML, CSS, JavaScript, Bootstrap, jQuery, Python, Jinja2, PostgreSQL, CKAN and AWS._
 
-### 01. Multi-platform Software Developer
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      &nbsp; &nbsp; Python &nbsp; &nbsp;      
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; PostgreSQL &nbsp; &nbsp;
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; CKAN &nbsp; &nbsp;
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; Git &nbsp; &nbsp;
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; GitHub &nbsp; &nbsp;
+    </td>
+  </tr>
+</table>
+
+<br> <br>
+
+#### 01. Multi-platform Software Developer
 
 • &nbsp; Internship &nbsp; • &nbsp; Full-time &nbsp; • &nbsp; Remote
 
@@ -97,14 +194,31 @@ Alongside this, I, occasionally, work with the following to create my personal p
 
 👉 _**Tools & Technologies:** I worked with the LAMP stack (PHP), MERN stack (JavaScript), blockchains (Solidity) and Unity engine (C#). Working with so many technologies, I developed a strong foundation in the software ecosystem._
 
-##### _\* Company names and locations have been redacted from GitHub but are available in my CV._
 
 <br>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      &nbsp; &nbsp; Web &nbsp; &nbsp;      
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; Mobile &nbsp; &nbsp;
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; Games &nbsp; &nbsp;
+    </td>
+    <td align="center">
+      &nbsp; &nbsp; Blockchain &nbsp; &nbsp;
+    </td>
+  </tr>
+</table>
+
+<br> <br>
 ---
 
 <br>
 
-# Contact Me
+## Contact Me
 
 I look forward to working on all and exciting software projects in great cultures with wonderful peers. If you have any mutually beneficial collaborative opportunities you want to discuss, definitely reach out to me at [this email address](mailto:work.email861@passinbox.com).
